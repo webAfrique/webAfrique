@@ -2,12 +2,12 @@
 
 ##### Frontend Developer at webAfrique
 
-If you love stunningly beatiful webpages with smart and intuitive interactions,
+If you love stunningly beautiful webpages with smart and intuitive interactions,
 powered by robust and scalable APIs, ... then we're either comrades
 or you're my next client!
 
 <!--![MERN stack image](Mern.png "Javascript")-->
-Here are some technologies I use for my work
+I work with these technologies
 
 ###
 
@@ -28,7 +28,8 @@ Here are some technologies I use for my work
 </div>
 
 ###
-💬 Got any enquiries? ...
+💬 Got any enquiries? 
+
 📫 You can reach me here: emmanuel.monle@gmail.com
 
 <!--
