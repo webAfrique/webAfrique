@@ -1,6 +1,6 @@
 ### Emmanuel Monle Nyode
 
-##### Fullstack Developer at webAfrique
+##### Frontend Developer at webAfrique
 
 If you love stunningly beatiful webpages with smart and intuitive interactions,
 powered by robust and scalable APIs, ... then we're either comrades
@@ -28,8 +28,8 @@ Here are some technologies I use for my work
 </div>
 
 ###
-- 💬 Got any enquiries? ...
-- 📫 You can reach me here: emmanuel.monle@gmail.com
+💬 Got any enquiries? ...
+📫 You can reach me here: emmanuel.monle@gmail.com
 
 <!--
 **webAfrique/webAfrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
