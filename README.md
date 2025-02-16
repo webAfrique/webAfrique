@@ -1,6 +1,6 @@
 ### Emmanuel Monle Nyode
 
-##### Frontend Developer at webAfrique
+##### Software Engineer
 
 If you love stunningly beautiful webpages with smart and intuitive interactions,
 powered by robust and scalable APIs, ... then we're either comrades
