@@ -1,13 +1,10 @@
 ### Emmanuel Monle Nyode
 
-##### Software Engineer
+##### Full Stack Developer
 
-If you love stunningly beautiful webpages with smart and intuitive interactions,
-powered by robust and scalable APIs, ... then we're either comrades
-or you're my next client!
+Helsinki-based Software Engineer educated in Computer Science, Information Security, and specialized Full Stack training from Business College Helsinki. I bring hands-on experience in building responsive user interfaces with clean React code and developing robust, scalable API solutions using Node.js, C#, and Python.
 
 <!--![MERN stack image](Mern.png "Javascript")-->
-I work with these technologies
 
 ###
 
